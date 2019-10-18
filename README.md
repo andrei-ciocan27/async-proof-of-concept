@@ -4,8 +4,12 @@ This is an async proof of concept using Node.js, Express, SQlite and EcmaScript 
 
 ## Start
 
-Use the following command to start the project
+Use the following command to install the node modules:
+```bash
+npm install
+```
 
+Use the following command to start the project:
 ```bash
 npm start
 ```
